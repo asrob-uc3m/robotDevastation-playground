@@ -1,2 +1,2 @@
 # robotDevastation-research
-Easy stuff for beginners that wants to start developing on robotDevastation.
+Easy stuff for beginners that want to start developing on robotDevastation.
