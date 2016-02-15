@@ -3,7 +3,7 @@ Experiments that could be later added to robotDevastation. Some of them may be s
 
 Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, where the following lines were proposed:
 
-* Add more cool robots to RobotDevastation:
+* Add support more cool robots to RobotDevastation:
  * https://github.com/bqlabs/loki
  * https://github.com/bqlabs/mizu
 * Add AR interfaces:
