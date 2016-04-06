@@ -10,6 +10,9 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, where 
  * http://www.slashgear.com/reality-editor-ar-app-connects-iot-devices-by-drawing-lines-15418452/
  * http://www.realityeditor.org
  * http://www.openhybrid.org/adding-object-and-marker.html
+* Research about markerless AR:
+ * Semi-Direct Monocular Odometry (SVO) [GitHub](https://github.com/uzh-rpg/rpg_svo) [Video](https://www.youtube.com/watch?v=2YnIMfw6bJY)
+ * Parallel Tracking and Mapping (PTAM) [GitHub](https://github.com/Oxford-PTAM/PTAM-GPL) [Video](https://www.youtube.com/watch?v=Y9HMn6bd-v8)
 * Research about Game Engines:
     * [Unity](http://www.unity3d.com/)
     * [Unreal](https://www.unrealengine.com/)
