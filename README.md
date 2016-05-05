@@ -13,6 +13,8 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, where 
 * Research about markerless AR:
  * Semi-Direct Monocular Odometry (SVO) [GitHub](https://github.com/uzh-rpg/rpg_svo) [Video](https://www.youtube.com/watch?v=2YnIMfw6bJY)
  * Parallel Tracking and Mapping (PTAM) [GitHub](https://github.com/Oxford-PTAM/PTAM-GPL) [Video](https://www.youtube.com/watch?v=Y9HMn6bd-v8)
+ * ORB-SLAM (A Versatile and Accurate Monocular SLAM) [GitHub](https://github.com/raulmur/ORB_SLAM)
+ * LSD-SLAM (https://github.com/tum-vision/lsd_slam) [GitHub](https://github.com/tum-vision/lsd_slam)
 * Research about Game Engines:
     * [Unity](http://www.unity3d.com/)
     * [Unreal](https://www.unrealengine.com/)
