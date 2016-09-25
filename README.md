@@ -6,6 +6,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, where 
 * Add support more cool robots to RobotDevastation:
  * https://github.com/bqlabs/loki
  * https://github.com/bqlabs/mizu
+ * [Ganker Robot - Omnidirectional robot with swords](http://gjs.so/en/)
 * Add AR interfaces:
  * http://www.slashgear.com/reality-editor-ar-app-connects-iot-devices-by-drawing-lines-15418452/
  * http://www.realityeditor.org
