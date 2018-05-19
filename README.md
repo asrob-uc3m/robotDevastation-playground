@@ -1,4 +1,7 @@
 # robotDevastation-research
+
+[Robot Devastation](http://asrob-uc3m.github.io/workgroups/2017-05-28-robot-devastation.html) research repository.
+
 Experiments that could be later added to robotDevastation. Some of them may be suitable for beginners that want to start developing on robotDevastation :wink:
 
 Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, where the following lines were proposed:
