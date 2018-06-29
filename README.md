@@ -40,3 +40,4 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, where 
 * [Irrlicht](http://irrlicht.sourceforge.net/)
 * [Crystal Space](http://www.crystalspace3d.org/main/Main_Page)
 * [Panda3D](https://github.com/panda3d/panda3d)
+* [OpenSceneGraph](http://www.openscenegraph.org)
