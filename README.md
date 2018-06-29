@@ -24,6 +24,9 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, where 
 * ORBSLAM2_with_pointcloud_map [GitHub](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map)
 * Large-Scale Direct Monocular SLAM (LSD-SLAM) [GitHub](https://github.com/tum-vision/lsd_slam)
 
+## Research about Android version
+*  [Android version of Robot Devastation (just an old idea)](http://asrob.uc3m.es/index.php/ANDROID)
+
 ## Research about object persistance
 * [(Burke, 2001) Creature smarts: The art and architecture of a virtual brain](http://xenia.media.mit.edu/~solan/creatureSmarts.pdf)
 * [(Scholl, 2001) Object Persistence in Philosophy and Psychology](http://perception.research.yale.edu/papers/07-Scholl-MindLang.pdf)
