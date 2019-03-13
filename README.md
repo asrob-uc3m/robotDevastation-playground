@@ -4,7 +4,7 @@
 
 Experiments that could be later added to robotDevastation. Some of them may be suitable for beginners that want to start developing on robotDevastation :wink:
 
-Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31.
+Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `README.md` should work like an `awesome` list.
 
 ## Support more cool robots
 https://github.com/asrob-uc3m/robotDevastation-playground/issues/1
