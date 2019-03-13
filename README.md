@@ -6,6 +6,13 @@ Experiments that could be later added to robotDevastation. Some of them may be s
 
 Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `README.md` should work like an `awesome` list.
 
+* [Support more cool robots](#support-more-cool-robots)
+* [Research about AR interfaces](#research-about-ar-interfaces)
+* [Research about Monocular SLAM](#research-about-monocular-slam)
+* [Research about Android version](#research-about-android-version)
+* [Research about object persistance](#research-about-object-persistance)
+* [Research about Game Engines](#research-about-game-engines)
+
 ## Support more cool robots
 - [Loki (omnidirectional robot)](https://github.com/davidsanfal/loki)
 - [miniKame (cute quadrupted robot)](https://github.com/JavierIH/miniKame)
