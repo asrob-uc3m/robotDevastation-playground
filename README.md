@@ -7,6 +7,7 @@ Experiments that could be later added to robotDevastation. Some of them may be s
 Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, where the following lines were proposed:
 
 ## Support more cool robots
+https://github.com/asrob-uc3m/robotDevastation-research/issues/1
 * https://github.com/bqlabs/loki
 * https://github.com/bqlabs/mizu
 * [Ganker Robot - Omnidirectional robot with swords](http://gjs.so/en/)
