@@ -11,7 +11,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, where 
 * https://github.com/bqlabs/mizu
 * [Ganker Robot - Omnidirectional robot with swords](http://gjs.so/en/)
 
-## Add AR interfaces
+## Research about AR interfaces
 * http://www.slashgear.com/reality-editor-ar-app-connects-iot-devices-by-drawing-lines-15418452/
 * http://www.realityeditor.org
 * http://www.openhybrid.org/adding-object-and-marker.html
