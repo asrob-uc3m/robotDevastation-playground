@@ -13,6 +13,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
         - [Solar Panels](#solar-panels)
 * [Software](#software)
     + [AR interfaces](#ar-interfaces)
+    + [Cross-compilation](#cross-compilation)
     + [Monocular SLAM](#monocular-slam)
     + [Android version](#android-version)
     + [Game Engines](#game-engines)
@@ -41,6 +42,9 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 * http://www.slashgear.com/reality-editor-ar-app-connects-iot-devices-by-drawing-lines-15418452/
 * http://www.realityeditor.org
 * http://www.openhybrid.org/adding-object-and-marker.html
+
+### Cross-compilation
+* https://github.com/dockcross/dockcross
 
 ### Monocular SLAM
 * Semi-Direct Monocular Odometry (SVO) [GitHub](https://github.com/uzh-rpg/rpg_svo) [Video](https://www.youtube.com/watch?v=2YnIMfw6bJY)
