@@ -10,7 +10,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 * [Research about AR interfaces](#research-about-ar-interfaces)
 * [Research about Monocular SLAM](#research-about-monocular-slam)
 * [Research about Android version](#research-about-android-version)
-* [Research about object persistance](#research-about-object-persistance)
+* [Research about object persistence](#research-about-object-persistence)
 * [Research about Game Engines](#research-about-game-engines)
 
 ## Support more cool robots
@@ -35,7 +35,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 ## Research about Android version
 *  [Android version of Robot Devastation (just an old idea)](http://asrob.uc3m.es/index.php/ANDROID)
 
-## Research about object persistance
+## Research about object persistence
 * [(Burke, 2001) Creature smarts: The art and architecture of a virtual brain](http://xenia.media.mit.edu/~solan/creatureSmarts.pdf)
 * [(Scholl, 2001) Object Persistence in Philosophy and Psychology](http://perception.research.yale.edu/papers/07-Scholl-MindLang.pdf)
 * [(Isla, 2002) Object persistence for synthetic creatures](http://www.naimadgames.com/publications/aamas02/aamas02.pdf)
