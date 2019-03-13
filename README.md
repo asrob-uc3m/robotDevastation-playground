@@ -48,7 +48,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 * Large-Scale Direct Monocular SLAM (LSD-SLAM) [GitHub](https://github.com/tum-vision/lsd_slam)
 
 ### Android version
-*  [Android version of Robot Devastation (just an old idea)](http://asrob.uc3m.es/index.php/ANDROID)
+*  [Android version of Robot Devastation (just an old idea)](http://wiki.asrob.uc3m.es/index.php/ANDROID)
 
 ### Game Engines
 * [Unity](http://www.unity3d.com/)
