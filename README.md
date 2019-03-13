@@ -6,25 +6,39 @@ Experiments that could be later added to robotDevastation. Some of them may be s
 
 Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `README.md` should work like an `awesome` list.
 
-* [Support more cool robots](#support-more-cool-robots)
-* [Research about AR interfaces](#research-about-ar-interfaces)
-* [Research about Monocular SLAM](#research-about-monocular-slam)
-* [Research about Android version](#research-about-android-version)
-* [Research about object persistence](#research-about-object-persistence)
-* [Research about Game Engines](#research-about-game-engines)
+* [Hardware](#hardware)
+    + [Cool robots that could be supported](#cool-robots-that-could-be-supported)
+    + [Components](#components)
+        - [Brains](#brains)
+* [Software](#software)
+    + [AR interfaces](#ar-interfaces)
+    + [Monocular SLAM](#monocular-slam)
+    + [Android version](#android-version)
+    + [Object persistence](#object-persistence)
+    + [Game Engines](#game-engines)
 
-## Support more cool robots
+## Hardware
+
+### Cool robots that could be supported
 - [Loki (omnidirectional robot)](https://github.com/davidsanfal/loki)
 - [miniKame (cute quadrupted robot)](https://github.com/JavierIH/miniKame)
 - [Mizu (quadruped robot)](https://github.com/davidsanfal/mizu)
 - [Ganker Robot - Omnidirectional robot with swords](http://gjs.so/en/)
 
-## Research about AR interfaces
+### Components
+#### Brains
+- ESP8266
+- [Raspberry 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) ([#13](https://github.com/asrob-uc3m/robotDevastation-playground/issues/13#issuecomment-399560425)): note the 2.4GHz and 5GHz IEEE 802.11.b/g/n/ac wireless LAN spec.
+- Orange Pi Lite ([#12](https://github.com/asrob-uc3m/robotDevastation-playground/issues/12))
+
+## Software
+
+### AR interfaces
 * http://www.slashgear.com/reality-editor-ar-app-connects-iot-devices-by-drawing-lines-15418452/
 * http://www.realityeditor.org
 * http://www.openhybrid.org/adding-object-and-marker.html
 
-## Research about Monocular SLAM
+### Monocular SLAM
 * Semi-Direct Monocular Odometry (SVO) [GitHub](https://github.com/uzh-rpg/rpg_svo) [Video](https://www.youtube.com/watch?v=2YnIMfw6bJY)
 * Parallel Tracking and Mapping (PTAM) [GitHub](https://github.com/Oxford-PTAM/PTAM-GPL) [Video](https://www.youtube.com/watch?v=Y9HMn6bd-v8)
 * A Versatile and Accurate Monocular SLAM (ORB-SLAM) [GitHub](https://github.com/raulmur/ORB_SLAM)
@@ -32,16 +46,16 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 * ORBSLAM2_with_pointcloud_map [GitHub](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map)
 * Large-Scale Direct Monocular SLAM (LSD-SLAM) [GitHub](https://github.com/tum-vision/lsd_slam)
 
-## Research about Android version
+### Android version
 *  [Android version of Robot Devastation (just an old idea)](http://asrob.uc3m.es/index.php/ANDROID)
 
-## Research about object persistence
+### Object persistence
 * [(Burke, 2001) Creature smarts: The art and architecture of a virtual brain](http://xenia.media.mit.edu/~solan/creatureSmarts.pdf)
 * [(Scholl, 2001) Object Persistence in Philosophy and Psychology](http://perception.research.yale.edu/papers/07-Scholl-MindLang.pdf)
 * [(Isla, 2002) Object persistence for synthetic creatures](http://www.naimadgames.com/publications/aamas02/aamas02.pdf)
 * [(Gkikas, 2007) The evolution of FPS games controllers: how use progressively shaped their present design](http://pci2007.upatras.gr/proceedings/PCI2007_volA/A_037-046_Gkikas.pdf)
 
-## Research about Game Engines
+### Game Engines
 * [Unity](http://www.unity3d.com/)
 * [Unreal](https://www.unrealengine.com/)
 * [Ogre](http://www.ogre3d.org/)
