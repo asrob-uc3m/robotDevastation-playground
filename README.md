@@ -7,7 +7,6 @@ Experiments that could be later added to robotDevastation. Some of them may be s
 Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `README.md` should work like an `awesome` list.
 
 ## Support more cool robots
-https://github.com/asrob-uc3m/robotDevastation-playground/issues/1
 * https://github.com/bqlabs/loki
 * https://github.com/bqlabs/mizu
 * [Ganker Robot - Omnidirectional robot with swords](http://gjs.so/en/)
