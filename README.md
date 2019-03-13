@@ -10,6 +10,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
     + [Cool robots that could be supported](#cool-robots-that-could-be-supported)
     + [Components](#components)
         - [Brains](#brains)
+        - [Solar Panels](#solar-panels)
 * [Software](#software)
     + [AR interfaces](#ar-interfaces)
     + [Monocular SLAM](#monocular-slam)
@@ -31,6 +32,8 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 - ESP8266
 - [Raspberry 3 B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) ([#13](https://github.com/asrob-uc3m/robotDevastation-playground/issues/13#issuecomment-399560425)): note the 2.4GHz and 5GHz IEEE 802.11.b/g/n/ac wireless LAN spec.
 - Orange Pi Lite ([#12](https://github.com/asrob-uc3m/robotDevastation-playground/issues/12))
+#### Solar Panels
+- Tracked at [#6](https://github.com/asrob-uc3m/robotDevastation-playground/issues/6)
 
 ## Software
 
