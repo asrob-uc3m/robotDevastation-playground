@@ -12,7 +12,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
         - [Brains](#brains)
         - [Solar Panels](#solar-panels)
 * [Software](#software)
-    + [AR interfaces](#ar-interfaces)
+    + [AR](#ar)
     + [Cross-compilation](#cross-compilation)
     + [Monocular SLAM](#monocular-slam)
     + [Android version](#android-version)
@@ -38,7 +38,8 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 
 ## Software
 
-### AR interfaces
+### AR
+* https://github.com/robotology/superimpose-mesh-lib
 * http://www.slashgear.com/reality-editor-ar-app-connects-iot-devices-by-drawing-lines-15418452/
 * http://www.realityeditor.org
 * http://www.openhybrid.org/adding-object-and-marker.html
