@@ -18,8 +18,8 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
     + [Android version](#android-version)
     + [Game Engines](#game-engines)
 * [Theory](#theory)
-    + [Object persistence](#object-persistence)
-* [Our own abandonware](#our-own-abandonware)
+    + [Object Persistence](#object-persistence)
+* [Our Own Abandonware](#our-own-abandonware)
 
 ## Hardware
 
@@ -77,6 +77,6 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 * [(Isla, 2002) Object persistence for synthetic creatures](http://www.naimadgames.com/publications/aamas02/aamas02.pdf)
 * [(Gkikas, 2007) The evolution of FPS games controllers: how use progressively shaped their present design](http://pci2007.upatras.gr/proceedings/PCI2007_volA/A_037-046_Gkikas.pdf)
 
-## Our own abandonware
+## Our Own Abandonware
 * Trello deprecated in favor of GitHub projects
 * Slack channel deprecated in favor of Telegram channel
