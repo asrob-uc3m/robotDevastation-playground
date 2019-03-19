@@ -19,6 +19,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
     + [Game Engines](#game-engines)
 * [Theory](#theory)
     + [Object persistence](#object-persistence)
+* [Our own abandonware](#our-own-abandonware)
 
 ## Hardware
 
@@ -70,9 +71,12 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 
 ## Theory
 
-### Object persistence
+### Object Persistence
 * [(Burke, 2001) Creature smarts: The art and architecture of a virtual brain](http://xenia.media.mit.edu/~solan/creatureSmarts.pdf)
 * [(Scholl, 2001) Object Persistence in Philosophy and Psychology](http://perception.research.yale.edu/papers/07-Scholl-MindLang.pdf)
 * [(Isla, 2002) Object persistence for synthetic creatures](http://www.naimadgames.com/publications/aamas02/aamas02.pdf)
 * [(Gkikas, 2007) The evolution of FPS games controllers: how use progressively shaped their present design](http://pci2007.upatras.gr/proceedings/PCI2007_volA/A_037-046_Gkikas.pdf)
 
+## Our own abandonware
+* Trello deprecated in favor of GitHub projects
+* Slack channel deprecated in favor of Telegram channel
