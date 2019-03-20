@@ -12,6 +12,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
         - [Solar Panels](#solar-panels)
         - [Worldwide Connectivity](#worldwide-connectivity)
     + [Cool robots that could be supported](#cool-robots-that-could-be-supported)
+    + [Cool input devices that could be supported](#cool-input-devices-that-could-be-supported)
 * [Software](#software)
     + [Android version](#android-version)
     + [Battery Status](#battery-status)
@@ -42,6 +43,9 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 - [miniKame (cute quadrupted robot)](https://github.com/JavierIH/miniKame)
 - [Mizu (quadruped robot)](https://github.com/davidsanfal/mizu)
 - [Ganker Robot - Omnidirectional robot with swords](http://gjs.so/en/)
+
+### Cool input devices that could be supported
+- XBox controller
 
 ## Software
 
