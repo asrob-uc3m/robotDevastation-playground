@@ -14,6 +14,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
     + [Cool robots that could be supported](#cool-robots-that-could-be-supported)
 * [Software](#software)
     + [Android version](#android-version)
+    + [Battery Status](#battery-status)
     + [Augmented Reality (AR)](#augmented-reality-ar)
     + [Bots](#bots)
     + [Cross-compilation](#cross-compilation)
@@ -59,6 +60,9 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 * http://www.slashgear.com/reality-editor-ar-app-connects-iot-devices-by-drawing-lines-15418452/
 * http://www.realityeditor.org
 * http://www.openhybrid.org/adding-object-and-marker.html
+
+### Battery Status
+* Use the YARP [IBattery](http://www.yarp.it/classyarp_1_1dev_1_1IBattery.html) class if we ever get the hardware ([#11](https://github.com/asrob-uc3m/robotDevastation-playground/issues/11) contains mostly broken links).
 
 ### Bots
 * We could create Non-Playing Characters (NPCs, or simply bots) with Artificial Intelligence (e.g. via Reinforcement Learning). An interesting concept is that of a [Computer game bot Turing Test](https://en.m.wikipedia.org/wiki/Computer_game_bot_Turing_Test), which indicates that Bots with above-human performance can make a game boring.
