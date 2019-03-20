@@ -105,4 +105,4 @@ While we mainly use the YARP plugin mechanism for Dynamic Linking plugins, here 
 
 ## Our Abandonware
 * Trello deprecated in favor of GitHub projects
-* Slack channel deprecated in favor of Telegram channel
+* Slack channel #robotDevastation on [ASROB workspace](asrob.slack.com) deprecated in favor of the [Telegram channel](https://telegram.me/joinchat/ADT1EAjJk_gwAb9GNkqcpA)
