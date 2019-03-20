@@ -7,27 +7,21 @@ Experiments that could be later added to robotDevastation. Some of them may be s
 Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `README.md` should work like an `awesome` list.
 
 * [Hardware](#hardware)
-    + [Cool robots that could be supported](#cool-robots-that-could-be-supported)
     + [Components](#components)
         - [Brains](#brains)
         - [Solar Panels](#solar-panels)
+    + [Cool robots that could be supported](#cool-robots-that-could-be-supported)
 * [Software](#software)
+    + [Android version](#android-version)
     + [Augmented Reality (AR)](#augmented-reality-ar))
     + [Cross-compilation](#cross-compilation)
-    + [Monocular SLAM](#monocular-slam)
-    + [Android version](#android-version)
     + [Game Engines](#game-engines)
+    + [Monocular SLAM](#monocular-slam)
 * [Theory](#theory)
     + [Object Persistence](#object-persistence)
 * [Our Abandonware](#our-abandonware)
 
 ## Hardware
-
-### Cool robots that could be supported
-- [Loki (omnidirectional robot)](https://github.com/davidsanfal/loki)
-- [miniKame (cute quadrupted robot)](https://github.com/JavierIH/miniKame)
-- [Mizu (quadruped robot)](https://github.com/davidsanfal/mizu)
-- [Ganker Robot - Omnidirectional robot with swords](http://gjs.so/en/)
 
 ### Components
 #### Brains
@@ -36,8 +30,16 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 - Orange Pi Lite ([#12](https://github.com/asrob-uc3m/robotDevastation-playground/issues/12))
 #### Solar Panels
 - We have some!
+### Cool robots that could be supported
+- [Loki (omnidirectional robot)](https://github.com/davidsanfal/loki)
+- [miniKame (cute quadrupted robot)](https://github.com/JavierIH/miniKame)
+- [Mizu (quadruped robot)](https://github.com/davidsanfal/mizu)
+- [Ganker Robot - Omnidirectional robot with swords](http://gjs.so/en/)
 
 ## Software
+
+### Android version
+*  [Android version of Robot Devastation (just an old idea)](http://wiki.asrob.uc3m.es/index.php/ANDROID)
 
 ### Augmented Reality (AR)
 * https://github.com/robotology/superimpose-mesh-lib
@@ -48,17 +50,6 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 ### Cross-compilation
 * https://github.com/dockcross/dockcross
 
-### Monocular SLAM
-* Semi-Direct Monocular Odometry (SVO) [GitHub](https://github.com/uzh-rpg/rpg_svo) [Video](https://www.youtube.com/watch?v=2YnIMfw6bJY)
-* Parallel Tracking and Mapping (PTAM) [GitHub](https://github.com/Oxford-PTAM/PTAM-GPL) [Video](https://www.youtube.com/watch?v=Y9HMn6bd-v8)
-* A Versatile and Accurate Monocular SLAM (ORB-SLAM) [GitHub](https://github.com/raulmur/ORB_SLAM)
-* Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities (ORB-SLAM2) [GitHub](https://github.com/raulmur/ORB_SLAM2)
-* ORBSLAM2_with_pointcloud_map [GitHub](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map)
-* Large-Scale Direct Monocular SLAM (LSD-SLAM) [GitHub](https://github.com/tum-vision/lsd_slam)
-
-### Android version
-*  [Android version of Robot Devastation (just an old idea)](http://wiki.asrob.uc3m.es/index.php/ANDROID)
-
 ### Game Engines
 * [Unity](http://www.unity3d.com/)
 * [Unreal](https://www.unrealengine.com/)
@@ -68,6 +59,14 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 * [Panda3D](https://github.com/panda3d/panda3d)
 * [OpenSceneGraph](http://www.openscenegraph.org)
 * [PyGame](https://www.pygame.org)
+
+### Monocular SLAM
+* Semi-Direct Monocular Odometry (SVO) [GitHub](https://github.com/uzh-rpg/rpg_svo) [Video](https://www.youtube.com/watch?v=2YnIMfw6bJY)
+* Parallel Tracking and Mapping (PTAM) [GitHub](https://github.com/Oxford-PTAM/PTAM-GPL) [Video](https://www.youtube.com/watch?v=Y9HMn6bd-v8)
+* A Versatile and Accurate Monocular SLAM (ORB-SLAM) [GitHub](https://github.com/raulmur/ORB_SLAM)
+* Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities (ORB-SLAM2) [GitHub](https://github.com/raulmur/ORB_SLAM2)
+* ORBSLAM2_with_pointcloud_map [GitHub](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map)
+* Large-Scale Direct Monocular SLAM (LSD-SLAM) [GitHub](https://github.com/tum-vision/lsd_slam)
 
 ## Theory
 
