@@ -19,6 +19,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
     + [Cross-compilation](#cross-compilation)
     + [Game Engines](#game-engines)
     + [Monocular SLAM](#monocular-slam)
+    + [Plugin Mechanisms](#plugin-mechanisms)
 * [Theory](#theory)
     + [Object Persistence](#object-persistence)
 * [Our Abandonware](#our-abandonware)
@@ -82,6 +83,13 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 * Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities (ORB-SLAM2) [GitHub](https://github.com/raulmur/ORB_SLAM2)
 * ORBSLAM2_with_pointcloud_map [GitHub](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map)
 * Large-Scale Direct Monocular SLAM (LSD-SLAM) [GitHub](https://github.com/tum-vision/lsd_slam)
+
+### Plugin Mechanisms
+While we mainly use the YARP plugin mechanism for Dynamic Linking plugins, here are some alternatives.
+* https://github.com/robotology-playground/sharedlibpp
+* Writing DLLs for Linux apps : http://www.ibm.com/developerworks/library/l-dll/
+* Stack Overflow (C++: Dynamically loading classes from dlls) : http://stackoverflow.com/questions/431533/c-dynamically-loading-classes-from-dlls
+* HowTo: Export classes from a DLL : http://www.codeproject.com/Articles/28969/HowTo-Export-C-classes-from-a-DLL
 
 ## Theory
 
