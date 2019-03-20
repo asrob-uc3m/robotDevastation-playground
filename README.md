@@ -10,6 +10,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
     + [Components](#components)
         - [Brains](#brains)
         - [Solar Panels](#solar-panels)
+        - [Worldwide Connectivity](#worldwide-connectivity)
     + [Cool robots that could be supported](#cool-robots-that-could-be-supported)
 * [Software](#software)
     + [Android version](#android-version)
@@ -31,6 +32,9 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 - Orange Pi Lite ([#12](https://github.com/asrob-uc3m/robotDevastation-playground/issues/12))
 #### Solar Panels
 - We have some!
+#### Worldwide Connectivity
+- Could be via SIM-card enabled robots (3g/5g...) or by creating a [wireless mesh network](https://en.wikipedia.org/wiki/Wireless_mesh_network) similar to [FireChat](https://en.wikipedia.org/wiki/FireChat).
+
 ### Cool robots that could be supported
 - [Loki (omnidirectional robot)](https://github.com/davidsanfal/loki)
 - [miniKame (cute quadrupted robot)](https://github.com/JavierIH/miniKame)
