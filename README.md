@@ -14,6 +14,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 * [Software](#software)
     + [Android version](#android-version)
     + [Augmented Reality (AR)](#augmented-reality-ar))
+    + [Bots](#bots)
     + [Cross-compilation](#cross-compilation)
     + [Game Engines](#game-engines)
     + [Monocular SLAM](#monocular-slam)
@@ -46,6 +47,9 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 * http://www.slashgear.com/reality-editor-ar-app-connects-iot-devices-by-drawing-lines-15418452/
 * http://www.realityeditor.org
 * http://www.openhybrid.org/adding-object-and-marker.html
+
+### Bots
+* We could create Non-Playing Characters (NPCs, or simply bots) with Artificial Intelligence (e.g. via Reinforcement Learning). An interesting concept is that of a [Computer game bot Turing Test](https://en.m.wikipedia.org/wiki/Computer_game_bot_Turing_Test), which indicates that Bots with above-human performance can make a game boring.
 
 ### Cross-compilation
 * https://github.com/dockcross/dockcross
