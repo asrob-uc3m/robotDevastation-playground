@@ -41,6 +41,13 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 
 ### Android version
 *  [Android version of Robot Devastation (just an old idea)](http://wiki.asrob.uc3m.es/index.php/ANDROID)
+* Some resources:
+    * https://github.com/ZBar/ZBar/tree/master/android
+    * https://wiki.libsdl.org/Android
+* By having those two and [YARP for Android](https://alecive.github.io/research/2015/08/01/yarpdroid/) to cover all RD dependencies, perhaps the game could be ported to Android with ``nothing more'' than a CMake cross-compile switch. See `BUILD_ANDROID` at https://github.com/robotology/yarp/compare/master...robotology-playground:yarp-android. In case the branch gets deleted: https://github.com/robotology-playground/yarp/commit/fd5eece5d7a378d19b6d78eec45dd97a9e033b00 + https://github.com/robotology-playground/yarp/commit/f47e9996d6e077f8114aa066233c87c047e0f5bb.
+* More playground resources:
+    * https://www.tensorflow.org/lite
+    * https://developers.google.com/ar/discover/
 
 ### Augmented Reality (AR)
 * https://github.com/robotology/superimpose-mesh-lib
