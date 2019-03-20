@@ -13,7 +13,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
     + [Cool robots that could be supported](#cool-robots-that-could-be-supported)
 * [Software](#software)
     + [Android version](#android-version)
-    + [Augmented Reality (AR)](#augmented-reality-ar))
+    + [Augmented Reality (AR)](#augmented-reality-ar)
     + [Bots](#bots)
     + [Cross-compilation](#cross-compilation)
     + [Game Engines](#game-engines)
