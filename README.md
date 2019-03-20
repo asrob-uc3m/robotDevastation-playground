@@ -60,6 +60,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
     * https://developers.google.com/ar/discover/
 
 ### Augmented Reality (AR)
+Ways to get AR lasers and explosions into RD.
 * https://github.com/robotology/superimpose-mesh-lib
 * http://www.slashgear.com/reality-editor-ar-app-connects-iot-devices-by-drawing-lines-15418452/
 * http://www.realityeditor.org
