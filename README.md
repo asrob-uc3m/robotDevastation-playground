@@ -104,5 +104,5 @@ While we mainly use the YARP plugin mechanism for Dynamic Linking plugins, here 
 * [(Gkikas, 2007) The evolution of FPS games controllers: how use progressively shaped their present design](http://pci2007.upatras.gr/proceedings/PCI2007_volA/A_037-046_Gkikas.pdf)
 
 ## Our Abandonware
-* [Trello boards](https://trello.com/robotdevastation) deprecated in favor of our [GitHub project](https://github.com/orgs/asrob-uc3m/projects/1)
-* Slack channel `#robotdevastation` on [ASROB workspace](https://asrob.slack.com) deprecated in favor of our [Telegram channel](https://telegram.me/joinchat/ADT1EAjJk_gwAb9GNkqcpA)
+* [Trello boards](https://trello.com/robotdevastation) deprecated in favor of our [GitHub project](https://github.com/orgs/asrob-uc3m/projects/1).
+* Slack channel `#robotdevastation` on [ASROB workspace](https://asrob.slack.com) deprecated in favor of our [Telegram channel](https://telegram.me/joinchat/ADT1EAjJk_gwAb9GNkqcpA). However, Slack integration with Travis CI could be intersting.
