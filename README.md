@@ -18,6 +18,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
     + [Battery Status](#battery-status)
     + [Augmented Reality (AR)](#augmented-reality-ar)
     + [Bots](#bots)
+    + [Computer vision without QRs](#computer-vision-without-qrs)
     + [Cross-compilation](#cross-compilation)
     + [Game Engines](#game-engines)
     + [Monocular SLAM](#monocular-slam)
@@ -71,6 +72,10 @@ Ways to get AR lasers and explosions into RD.
 
 ### Bots
 * We could create Non-Playing Characters (NPCs, or simply bots) with Artificial Intelligence (e.g. via Reinforcement Learning). An interesting concept is that of a [Computer game bot Turing Test](https://en.m.wikipedia.org/wiki/Computer_game_bot_Turing_Test), which indicates that Bots with above-human performance can make a game boring.
+
+### Computer vision without QRs
+* https://github.com/Neargye/hello_tf_c_api/blob/master/src/interface.cpp
+* https://github.com/Dobiasd/frugally-deep
 
 ### Cross-compilation
 * https://github.com/dockcross/dockcross
