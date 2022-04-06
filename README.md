@@ -51,7 +51,7 @@ Originated from https://github.com/asrob-uc3m/robotDevastation/issues/31, this `
 ## Software
 
 ### Android version
-*  [Android version of Robot Devastation (just an old idea)](http://wiki.asrob.uc3m.es/index.php/ANDROID)
+*  [Android version of Robot Devastation (just an old idea)](https://apps-robots.uc3m.es/asrob/wiki/ANDROID)
 * Some resources:
     * https://github.com/ZBar/ZBar/tree/master/android
     * https://wiki.libsdl.org/Android
